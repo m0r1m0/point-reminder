@@ -1,13 +1,5 @@
-# node-typescript-boilerplate
+# point-reminder
 
-A template for [Node.js](https://github.com/nodejs/node) & [Typescript](https://github.com/microsoft/TypeScript) projects.
+各種ポイントの有効期限が近づいたらリマインドする
 
-## What is included
-
-- [Node.js](https://github.com/nodejs/node)
-- [Typescript](https://github.com/microsoft/TypeScript)
-- [Jest](https://github.com/facebook/jest)
-- [ESLint](https://github.com/eslint/eslint)
-  - `eslint:recommended`, `plugin:@typescript-eslint/recommended`
-- [Prettier](https://github.com/prettier/prettier)
-- VSCode setting for ESLint and Prettier
+Notion でポイントと有効期限の情報を管理し、 LINE Notify で通知する
